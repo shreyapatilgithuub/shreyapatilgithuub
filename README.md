@@ -18,6 +18,6 @@
 - Open to collaborations on open-source projects!
 
 ---
-##📫How to reach me:
+📫 **How to reach me:**
 mailto: shreyapatil062003@gmail.com
 Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
