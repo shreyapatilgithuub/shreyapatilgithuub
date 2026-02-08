@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Shreya S Patil! 👋
 
-<!--
-**shreyapatilgithuub/shreyapatilgithuub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🎓 Student and aspiring developer.
+- ☕ Currently deep-diving into **Java** and **DSA**.
+- 🚀 On a 30-day challenge to master problem-solving (Currently Day 5/30).
+- 🎯 **Actively seeking opportunities** and looking to start my career as a **Fresher / Software Developer**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, HTML5, CSS3
+- **Frameworks/Libraries:** Bootstrap
+- **Databases:** SQL, MongoDB
+- **Tools:** VS Code, IntelliJ IDEA, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Goals
+- Mastering Functions and Methods in Java.
+- Building a strong foundation in Algorithms and Data Structures.
+- Open to collaborations on open-source projects!
+
+---
+##📫How to reach me:
+mailto: shreyapatil062003@gmail.com
+Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
