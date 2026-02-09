@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me
 - 🎓 Student and aspiring developer.
 - ☕ Currently deep-diving into **Java** and **DSA**.
-- 🚀 On a 30-day challenge to master problem-solving (Currently Day 5/30).
+- 🚀 On a 30-day challenge to master problem-solving (Currently Day 06/30).
 - 🎯 **Actively seeking opportunities** and looking to start my career as a **Fresher / Software Developer**.
 
 ### 🛠️ Tech Stack
@@ -19,5 +19,5 @@
 
 ---
 📫 **How to reach me:**
-mailto: shreyapatil062003@gmail.com
-Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
+- mailto: shreyapatil062003@gmail.com
+- Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
