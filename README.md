@@ -7,7 +7,7 @@
 - 🎯 **Actively seeking opportunities** and looking to start my career as a **Fresher / Software Developer**.
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, HTML5, CSS3
+- **Languages:** Java, JavaScript, CSS3, HTML5
 - **Frameworks/Libraries:** Bootstrap
 - **Databases:** SQL, MongoDB
 - **Tools:** VS Code, IntelliJ IDEA, Git, GitHub
