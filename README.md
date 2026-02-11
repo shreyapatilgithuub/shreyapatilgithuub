@@ -1,4 +1,4 @@
-# Hi there, I'm Shreya S Patil! 👋
+# Hi there, I'm Shreya Patil! 👋
 
 ### 👩‍💻 About Me
 - 🎓 Student and aspiring developer.
