@@ -23,8 +23,8 @@
 - Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
 
 ---
-### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=shreyapatilgithuub&show_icons=true&theme=radical)
+### 📊 My GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyapatilgithuub&show_icons=true&theme=radical)
 
-### 🐍 Most Used Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyapatilgithuub&layout=compact&theme=radical)
+### 🏆 Achievements
+![GitHub Achievements](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyapatilgithuub&layout=compact&theme=radical)
