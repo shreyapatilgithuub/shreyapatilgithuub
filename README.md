@@ -21,10 +21,3 @@
 📫 **How to reach me:**
 - mailto: shreyapatil062003@gmail.com
 - Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
-
----
-### 📊 My GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyapatilgithuub&show_icons=true&theme=radical)
-
-### 🏆 Achievements
-![GitHub Achievements](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyapatilgithuub&layout=compact&theme=radical)
