@@ -13,7 +13,7 @@
 - **Tools:** VS Code, IntelliJ IDEA, Git, GitHub
 
 ### 📈 Current Goals
-- Mastering Time and Space complexity in Java.
+- Mastering Arrays in Java.
 - Building a strong foundation in Algorithms and Data Structures.
 - Open to collaborations on open-source projects!
 
