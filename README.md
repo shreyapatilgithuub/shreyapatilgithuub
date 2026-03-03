@@ -3,7 +3,6 @@
 ### 👩‍💻 About Me
 - 🎓 Student and aspiring developer.
 - ☕ Currently deep-diving into **Java** and **DSA**.
-- 🚀 On a 30-day challenge to master problem-solving (Currently Day 15/30).
 - 🎯 **Actively seeking opportunities** and looking to start my career as a **Fresher / Software Developer**.
 
 ### 🛠️ Tech Stack
